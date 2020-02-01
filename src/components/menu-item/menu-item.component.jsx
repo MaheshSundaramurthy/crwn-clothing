@@ -8,7 +8,7 @@ const MenuItem = ({ title, imageUrl, size }) => (
   >
     <div className="content">
       <h1 className="title">{title}</h1>
-      <span className="subtitle">SHOP NOW</span>
+      <span className="subtitle">SHOP NOWWWWWW</span>
     </div>
   </div>
 );
